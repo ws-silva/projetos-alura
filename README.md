@@ -4,11 +4,11 @@ Em agosto de 2022 decid recomeçar meus estudos mas dessa vez pela plataforma da
 # Cursos
 
 ##  01-introdução_python
-curso: introduçãoa a linguagem python
+curso: introduçãoa a linguagem python<br>
 conteúdo: types, listas, tuplas, while e for
 
 ***
 
 ##  02-introdução_poo
-curso: programação orientada a ojetos
+curso: programação orientada a ojetos<br>
 conteúdo: classes, objetos, métodos, encapsulamento, métodos, propriedades, métodos estáticos
